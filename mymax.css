@@ -1,0 +1,67 @@
+a{
+    position: relative;
+    bottom: 900px;
+    left: 700px;
+    color:skyblue;
+}
+#shop{
+    padding-left: 250px;
+    padding-top: 40px;
+}
+h1{
+    padding-left:200px;
+    position: relative;
+    top: 70px;
+}
+a:hover{
+    color:pink;
+    text-decoration: overline;
+}
+div{
+    padding-left: 500px;
+}
+/* #shirt2{ */
+    /* border: 1px solid brown;
+    border-width:-10px; */
+   /* border-radius: 20px; */
+    /* float: right;
+    position: relative;
+    bottom: 300px;
+    right: 100px; */
+/* } */
+body{
+    background-color: black;
+    color: white;
+}
+div:hover{
+    color: aqua;
+    text-decoration:underline;
+}
+/* div:focus{
+    color: pink;
+} */
+/* div:hover{
+      border:1px solid black;  
+}
+div:focus{
+    color: brown;
+} */
+/* #shirt3{
+    float: right;
+    position: relative;
+    bottom: 300px;
+    right: 200px;
+}
+#shirt5{
+    float: right;
+    position: relative;
+    bottom: 300px;
+    right: 520px;
+}
+#shirt6{
+    float: right;
+    position: relative;
+    bottom: 300px;
+    left: 40px;
+}
+ */ 
