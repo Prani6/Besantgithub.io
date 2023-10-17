@@ -2,7 +2,7 @@ a{
     position: relative;
     bottom: 900px;
     left: 700px;
-    color:pink;
+    color:skyblue;
 }
 #shop{
     padding-left: 250px;
@@ -14,7 +14,7 @@ h1{
     top: 70px;
 }
 a:hover{
-    color:aqua;
+    color:pink;
     text-decoration: overline;
 }
 div{
