@@ -1,0 +1,177 @@
+.container1{
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 1100px;
+   position: relative;
+   bottom: 100px;
+}
+.bar1 ,.bar2,.bar3{
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+.change .bar1{
+    transform: translate(0, 11px) rotate(-45deg);
+}
+.change .bar2{
+     opacity:0;
+}
+.change .bar3{
+    transform: translate(0, -11px) rotate(45deg);
+}
+body{
+    font-family:'poppins', sans-serif;
+
+}
+.pj-sidebar {
+    display:none;
+ }
+a.active,a:hover{
+    background: aqua;
+    transition:.5s;
+}
+.conct{
+    margin-left: 350px;
+    /* padding-bottom: 10px; */
+    position: relative;
+    bottom: 50px;
+    /* background-color: pink; */
+ }
+.menu{
+    margin-left: 1100px;
+    position: relative;
+    top: 139px;
+    background-color:pink;
+    height: 80px;
+    width: 236px;
+    transition-duration:2s;
+    transition-timing-function: ease-out;
+}
+#con{
+   position: relative;
+   right: 20px;
+}
+/* .projects{
+    position: relative;
+    left: 600px;
+    bottom: 0px;
+} */
+#para{
+    font-size: 18px;
+    font-weight: 100px;
+    margin-left: 1.5rem;
+}
+.skills{
+    height: 260px;
+    width: 600px;
+    border: 2px solid black;
+    margin-left: 400px;
+    border-radius: 20px;
+}
+#one,#two ,#three,#four{
+    background-color: indigo;
+    color:white;
+    padding: 7px;
+    border-radius: 10px;
+    position: relative;
+    bottom:5px;
+    text-align: center;
+    width: 110px;left: 110px;
+}
+#five,#six,#seven,#eight{
+    background-color: indigo;
+    color:white;
+    padding: 7px;
+    border-radius: 10px;
+    position: relative;
+    bottom:250px;
+    text-align: center;
+    width: 110px;left: 350px;
+}
+.proj{
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 100px;
+}
+.project1{
+    margin-left: 140px;
+    position: relative;
+    bottom: 190px;
+}
+.clock{
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 400px;
+    position: relative; bottom: 430px;
+}
+.project2{
+    margin-left: 425px;
+    position: relative;
+   bottom: 620px;
+}
+.converter{
+   height: 220px;
+   width: 200px;
+   border: 2px solid black;
+   position: relative; bottom: 860px; left: 700px;
+}
+.project3{
+    margin-left: 730px;
+    position: relative;
+   bottom: 1050px;
+}
+.forms{
+    position: relative;
+    left: 180px;
+    bottom: 200px;
+    background-color: rgb(14, 14, 14);
+    color: white;
+    height: 20px;
+    width: 50px;
+}
+.clk{
+    position: relative;
+    left: 470px;
+    bottom: 630px;
+    background-color: rgb(14, 14, 14);
+    color: white;
+    height: 20px;
+    width: 50px;
+}
+.con{
+    position: relative;
+    left: 770px;
+    bottom: 1060px;
+    background-color: rgb(14, 14, 14);
+    color: white;
+    height: 20px;
+    width: 50px;
+}
+.portfolio{
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative; bottom: 1290px; left: 990px;
+ }
+.project4{
+    left: 1015px;
+    position: relative;
+   bottom: 1480px;
+}
+.port{
+    position: relative;
+    left: 1060px;
+    bottom: 1490px;
+    background-color: rgb(14, 14, 14);
+    color: white;
+    height: 20px;
+    width: 50px;
+}
+.contact{
+    position: relative;
+    bottom: 1300px;
+}
