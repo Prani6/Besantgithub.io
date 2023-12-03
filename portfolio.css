@@ -56,7 +56,7 @@ body{
     transition-timing-function: ease-out; */
 }
 .menu:hover{
-    width: 300px;
+    width: 200px;
 }
 #con{
    position: relative;
